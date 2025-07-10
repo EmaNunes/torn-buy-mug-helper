@@ -9,8 +9,8 @@
 // @connect      api.torn.com
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end
-// @updateURL    https://github.com/EmaNunes/torn-buy-mug-helper/raw/refs/heads/main/Mug%20Helper-1.0.0.user.js
-// @downloadURL  https://github.com/EmaNunes/torn-buy-mug-helper/raw/refs/heads/main/Mug%20Helper-1.0.0.user.js
+// @updateURL    https://github.com/EmaNunes/torn-buy-mug-helper/raw/refs/heads/main/Mug_Helper.user.js
+// @downloadURL  https://github.com/EmaNunes/torn-buy-mug-helper/raw/refs/heads/main/Mug_Helper.user.js
 // ==/UserScript==
 
 (function() {
