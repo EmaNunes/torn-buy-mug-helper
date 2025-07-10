@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mug Helper
 // @namespace    http://tampermonkey.net/
-// @version      2.0.0
+// @version      2.0.1
 // @description  Helps you not to do the same mistakes i did
 // @author       Saint_Lucifer
 // @match        https://www.torn.com/profiles.php*
@@ -9,8 +9,8 @@
 // @connect      api.torn.com
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end
-// @updateURL    https://github.com/EmaNunes/torn-buy-mug-helper/raw/refs/heads/main/Mug_Helper-2.0.0.user.js
-// @downloadURL  https://github.com/EmaNunes/torn-buy-mug-helper/raw/refs/heads/main/Mug_Helper-2.0.0.user.js
+// @updateURL    https://github.com/EmaNunes/torn-buy-mug-helper/raw/refs/heads/main/Mug_Helper.js
+// @downloadURL  https://github.com/EmaNunes/torn-buy-mug-helper/raw/refs/heads/main/Mug_Helper.js
 // ==/UserScript==
 
 (function() {
