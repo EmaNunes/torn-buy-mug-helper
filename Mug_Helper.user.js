@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mug Helper
 // @namespace    http://tampermonkey.net/
-// @version      3.0.0
+// @version      2.0.0
 // @description  Helps you not to do the same mistakes i did
 // @author       Saint_Lucifer
 // @match        https://www.torn.com/profiles.php*
@@ -157,7 +157,7 @@ function ShowDiv() {
 
 
     const line2Part2 = document.createElement('p');
-    line2Part2.textContent = ' This script "Mug-Helper" when any player profile page load, will look the link of the company displayed in the player profile page and then use the id of the company found in the link and the a public access key provided by the user of the script to make a api request about the company. Then it will evaluate the result to check if the company is a Clothing store and alerts the user of the script that the player have 75% mug protection';
+    line2Part2.textContent = ' This script "Mug-Helper" when any profile page load, will look the link of the company displayed in the profile page and then use the id of the company found in the link and the a public access key provided by the user to make a api request about the company. Then it will evaluate the result to check if the company is a Clothing store and alerts the player that the user have 75% mug protection';
     line2Part2.style.cssText = ` margin-bottom: 15px; `;
     textContainer.appendChild(line2Part2);
 
